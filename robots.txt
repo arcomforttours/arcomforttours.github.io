@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://arcomforttours.github.io/sitemap.xml
