@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://arcomforttours.com/</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/winetours.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/gastrornomical.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/sightseeing.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/extreme.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/armenia.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/arcax.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/about_tours/georgia.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/tours/Armenia.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/tours/Arcakh.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arcomforttours.com/tours/Georgia.html</loc>
+  <lastmod>2018-04-08T10:08:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
